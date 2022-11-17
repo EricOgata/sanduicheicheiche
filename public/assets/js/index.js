@@ -1,7 +1,7 @@
 $("#btn-gerador").on('click', generateSandwich);
 
 function generateSandwich() {
-    fetch('/public/assets/databases/ingredients.json')
+    fetch('public/assets/databases/ingredients.json')
         .then(responde => responde.json())
         .then(ingredients => {
             const sliderValue = $("#input-range").val();
