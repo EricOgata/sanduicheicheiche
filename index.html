@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sanduiche-iche-iche</title>
+    <link rel="stylesheet" href="./public/styles/reset.css">
+    <link rel="stylesheet" href="./public/styles/fonts.css">
+    <link rel="stylesheet" href="./public/styles/colors.css">
+    <link rel="stylesheet" href="./public/styles/style.css">
+    <script src="/public/assets/js/jquery-3.6.1.slim.min.js"></script>
+</head>
+
+<body>
+    <div class="root">
+        <h1 id="title" class="title">Gerador de sanduíche-íche</h1>
+        <div id="slider-container" class="slider-container">
+            <img src="./public/assets/images/burguer.png" alt="Bonito">
+            <input class="input-slider" type="range" min="1" value="50" max="100" id="input-range">
+            <img src="./public/assets/images/weird.png" alt="Louco">
+        </div>
+        <button id="btn-gerador" class="btn-gerador">Gerar Sanduíche-íche-íche</button>
+
+        <div id="burguer-loader" class="burguer-loader hidden">
+            <div class="burger">
+                <div class="bun1">&nbsp;</div>
+                <div class="lettuce">&nbsp;</div>
+                <div class="patty">CARREGANDO</div>
+                <div class="bun2">&nbsp;</div>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="/public/assets/js/index.js"></script>
+
+</html>

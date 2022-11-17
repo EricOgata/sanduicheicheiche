@@ -1,0 +1,87 @@
+{
+    "breads" : [
+        {
+            "name" : "Pão branco",
+            "pic" : "",
+            "flavors": [
+                "sweet",
+                "salty"
+            ]
+        },
+        {
+            "name" : "Pão de hambúrguer",
+            "pic" : ""
+        },{
+            "name" : "Bisnaguinha",
+            "pic" : ""
+        }
+    ],
+    "spreads" : [
+        {
+            "name" : "Maionese",
+            "pic" : "",
+            "value" : 0,
+            "crazyness": 0,
+            "flavors": [
+                "salty"
+            ]
+        }
+    ],
+    "fillings" : [
+        {
+            "name" : "Repolho-Roxo",
+            "pic" : "",
+            "value" : 0,
+            "crazyness": 0,
+            "flavors": [
+                "bitter"
+            ]
+        }, {
+            "name" : "Pimenta-Calabresa",
+            "pic" : "",
+            "value" : 0,
+            "crazyness": 0,
+            "flavors": [
+                "spicy"
+            ]
+        }
+    ],
+    "garnishes" : [
+        {
+            "name" : "Pimenta-Calabresa",
+            "pic" : "",
+            "value" : 0,
+            "crazyness": 0,
+            "flavors": [
+                "spicy"
+            ]
+        },
+        {
+            "name" : "Rodela de Limão",
+            "pic" : "",
+            "value" : 0,
+            "crazyness": 0,
+            "flavors": [
+                "Sour"
+            ]
+        },
+        {
+            "name" : "Rodela de Limão",
+            "pic" : "",
+            "value" : 0,
+            "crazyness": 0,
+            "flavors": [
+                "Sour"
+            ]
+        },
+        {
+            "name" : "Rodela de Rabanete",
+            "pic" : "",
+            "value" : 0,
+            "crazyness": 0,
+            "flavors": [
+                "Bitter"
+            ]
+        }
+    ]
+}

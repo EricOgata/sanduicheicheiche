@@ -1,0 +1,8 @@
+{
+  "name": "sanduiche",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "git@github.com:EricOgata/sanduicheicheiche.git",
+  "author": "Eric Ogata <dev.ericogata@gmail.com>",
+  "license": "MIT"
+}
